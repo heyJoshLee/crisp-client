@@ -1,3 +1,6 @@
+# Video Overview and Walkthrough
+https://komododecks.com/recordings/ssQA7yJW0KWD6e2PFPjj
+
 # To start
 
 Make sure you have the .env file with the following otherwise, this doesn't know where to connect to the server. Also make sure this is the correct port.
